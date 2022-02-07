@@ -11,9 +11,7 @@ def doubles(arry):
 
 
 def main():
-    print("Main start!")
     doubles([3,0,1,2,3,6,2,4,5,6,5])
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

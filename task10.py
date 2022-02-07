@@ -10,9 +10,7 @@ def evenrow(arr1):
     else:
         print('FALSE')
 def main():
-    print("Main start!")
     evenrow([[1,3],[2,4]])
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

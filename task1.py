@@ -10,9 +10,7 @@ def test(val):
     else:
         print('NOT A NUMBER')
 def main():
-    print("Main start!")
     test(1)
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

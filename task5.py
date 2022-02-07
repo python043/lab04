@@ -14,9 +14,7 @@ def inBoth(arry1,arry2):
     
 
 def main():
-    print("Main start!")
     inBoth([3,2,5,4,7],[9,0,1,3])
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

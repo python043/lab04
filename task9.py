@@ -13,9 +13,7 @@ def lastfirst(lst):
     print(secondArry)
     print(firstArry)
 def main():
-    print("Main start!")
     lastfirst(['Gerber,Len','Fox,Kate','Dunn,Bob'])
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

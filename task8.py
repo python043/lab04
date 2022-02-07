@@ -33,7 +33,6 @@ def main():
         print("Invalid choice!..")
         exit
     rps(choice1,choice2)
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 

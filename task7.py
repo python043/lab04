@@ -6,9 +6,7 @@ def pair(arry1,arry2,sum):
             if n1+n2==sum:
                 print(n1,n2)
 def main():
-    print("Main start!")
     pair([2,3,4],[5,7,9,12],9)
-    print("Main  End!.")
 if __name__ == "__main__":
     main()
 
